@@ -9,11 +9,20 @@ You'll need an API key for OpenAI's API, [get it here](https://platform.openai.c
 ## How to run?
 
 ### Clone project
-```git clone git@github.com:kahilav2/gpt-news-filter.git
-cd gtp-news-filter```
+```
+git clone git@github.com:kahilav2/gpt-news-filter.git
+cd gtp-news-filter
+```
 
 ### Install dependencies
 `pip install -r requirements.txt`
+
+### Modify the filter
+Edit simple_gpt_news_filter.py and change the contents of "preprompt" to your liking. 
+
+### Set api key
+Modify api_key inside simple_gpt_news_filter.py or set environment variable by e.g. running
+`export OPENAPI_API_KEY=yourkeyhere`
 
 ### Run
 `python simple_gpt_news_filter.py`
