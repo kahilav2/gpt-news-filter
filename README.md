@@ -4,7 +4,7 @@ Ever wished you could decide what kind of web content you're exposed to? With th
 
 ## What's needed?
 
-You'll need an API key for OpenAI's API, [get it here](https://platform.openai.com/overview). You need to insert it into the code or set an environment key in your terminal with `export OPENAI_API_KEY=yourkeyhere`.
+You'll need an API key for OpenAI's API, [get it here](https://platform.openai.com/overview). You need to insert it into the code or set an environment key in your terminal with `export OPENAI_API_KEY=yourkeyhere` command.
 
 ## How to run?
 
