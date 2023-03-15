@@ -21,7 +21,7 @@ The next user wishes to filter out news that are ... (e.g. sports, clickbaity, s
 
 You receive input in this format: "<ID> <title of the news>", then you pick news based on the previous wishes. You output in the format "<id_1> <id_2> ... <id_n>". It's of utmost importance to output exactly in the format of "<id_1> <id_2> ... <id_n>", otherwise the following software won't accept your output and terminates.
 
-NO SPORTS NEWS!! (this might help if the filter is not otherwise working)
+NO SPORTS NEWS!! (repeating the rule might help if the filter is not otherwise working)
 """
 
 def generate_id():
