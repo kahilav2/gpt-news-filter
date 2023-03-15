@@ -20,7 +20,7 @@ cd gtp-news-filter
 ### Modify the filter
 Edit simple_gpt_news_filter.py and change the contents of *preprompt* to your liking. 
 
-### Set api key
+### Set API key
 Modify *api_key* inside simple_gpt_news_filter.py or set environment variable by e.g. running
 `export OPENAPI_API_KEY=yourkeyhere`
 
