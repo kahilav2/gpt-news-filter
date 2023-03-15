@@ -27,6 +27,9 @@ Modify *api_key* inside simple_gpt_news_filter.py or set environment variable by
 ### Run
 `python simple_gpt_news_filter.py`
 
+### Enjoy your news
+The web page showing your filtered news should automatically open up, but in case it doesn't, mofidy simple_gtp_news_filter.py or simply open your_ai_powered_news_feed.html generated in the project folder.
+
 ## How to get the filtering right?
 It's hard to say how to get the best results with filtering. An example, which is close to what I'm using is written in the code as an example. You need to experiment with it.
 
