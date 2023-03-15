@@ -18,10 +18,10 @@ cd gtp-news-filter
 `pip install -r requirements.txt`
 
 ### Modify the filter
-Edit simple_gpt_news_filter.py and change the contents of "preprompt" to your liking. 
+Edit simple_gpt_news_filter.py and change the contents of *preprompt* to your liking. 
 
 ### Set api key
-Modify api_key inside simple_gpt_news_filter.py or set environment variable by e.g. running
+Modify *api_key* inside simple_gpt_news_filter.py or set environment variable by e.g. running
 `export OPENAPI_API_KEY=yourkeyhere`
 
 ### Run
