@@ -1,6 +1,6 @@
 # GPT-powered news filter
 
-Ever wished you could decide what kind of web content you're exposed to? With the recent rapid development of AI technologies, it has become possible. This application lets you pick RSS news feeds and filter them using your personalized filtering rules. With the power of AI, you can filter news like "no clickbaity, sensationalist, anxiety-inducing news, or news about Donald Trump", which has been difficult thus far.
+Ever wished you could decide what kind of web content you're exposed to? With the recent rapid development of AI technologies, it has become possible. This application lets you pick RSS news feeds and filter them using your personalized filtering rules. With the power of AI, you can filter out news like "no clickbaity, sensationalist, anxiety-inducing news, or news about Donald Trump", which has been difficult thus far.
 
 ## What's needed?
 
