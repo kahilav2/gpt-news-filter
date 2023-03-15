@@ -1,6 +1,6 @@
 # GPT-powered news filter
 
-Ever wished you could decide what kind of web content you're exposed to? With the recent rapid development of AI technologies, it has become possible. This application lets you pick news feeds and filter them using your personalized filtering rules.
+Ever wished you could decide what kind of web content you're exposed to? With the recent rapid development of AI technologies, it has become possible. This application lets you pick news feeds and filter them using your personalized filtering rules. With the power of AI, you can filter news like "no clickbaity, sensationalist, anxiety-inducing news, or news about Donald Trump", which has been difficult thus far.
 
 ## What's needed?
 
@@ -9,7 +9,8 @@ You'll need an API key for OpenAI's API. You need to insert it into the code or 
 ## How to run?
 
 ### Clone project
-`git clone git@github.com:kahilav2/gpt-news-filter.git`
+```git clone git@github.com:kahilav2/gpt-news-filter.git
+cd gtp-news-filter```
 
 ### Install dependencies
 `pip install -r requirements.txt`
